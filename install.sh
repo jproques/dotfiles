@@ -5,4 +5,10 @@ rsync --exclude ".git/" \
         --exclude ".osx" \
         --exclude "install.sh" \
         --exclude "README.md" \
+        --exclude "vscode" \
+        --exclude "iterm" \
         -avh --no-perms . ~;
+
+
+# setup vscode settings
+cp vscode/settings.json ~/Library/Application\ Support/Code/User

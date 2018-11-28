@@ -1,0 +1,8 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#11111111"
+    },
+    "explorer.openEditors.visible": 0
+}

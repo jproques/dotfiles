@@ -1,0 +1,6 @@
+[alias]
+    s = status -bs
+    l = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+[user]
+    name = Jean-Philippe ROQUES
+    email = jphilippe.roques@gmail.com
