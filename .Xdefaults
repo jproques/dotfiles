@@ -1,0 +1,28 @@
+! $OpenBSD: dot.Xdefaults,v 1.3 2014/07/10 10:22:59 jasper Exp $
+XTerm*loginShell: true
+XTerm*faceSize: 8 
+XTerm*faceName: Monospace
+XTerm*scrollBar: false
+
+XTerm*savelines: 16384
+
+XTerm*Foreground: #DDD6F4
+XTerm*Background: #1E1E2E 
+XTerm*color0: #45475A 
+XTerm*color1: #F38BA8 
+XTerm*color2: #A6E3A1
+XTerm*color3: #f9e2af 
+XTerm*color4: #89b4fa
+XTerm*color5: #f5c2e7 
+XTerm*color6: #94e2d5 
+xTerm*color7: #bac2de 
+XTerm*color8: #585b70 
+XTerm*color9: #f38ba8
+XTerm*color10: #a6e3a1
+XTerm*color11: #f9e2af
+XTerm*color12: #89b4fa
+XTerm*color13: #f5c2e7
+XTerm*color14: #94e2d5
+XTerm*color15: #a6adc8
+
+
